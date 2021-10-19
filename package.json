@@ -2,6 +2,9 @@
   "name": "postman-clone",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "14.x"
+  },
   "main": "index.js",
   "scripts": {
     "start": "snowpack dev",
